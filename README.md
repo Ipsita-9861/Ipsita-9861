@@ -1,3 +1,5 @@
+![logo](https://github.com/Ipsita-9861/Ipsita-9861/blob/main/Github%20Header.png)
+
 <h1 align="center">Hi 👋, I'm Ipsita Nayak</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
